@@ -1,5 +1,3 @@
----
-
 # **Sales Data Analysis Project**
 
 ## **Overview**
@@ -63,5 +61,3 @@ Based on the analysis, the following recommendations are proposed:
 ## **Conclusion**
 
 This project highlights the power of data-driven insights in shaping effective business strategies. By thoroughly analyzing sales data, businesses can make informed decisions that lead to increased revenue, optimized operations, and improved customer satisfaction.
-
----
